@@ -1,7 +1,7 @@
 ### Hi there 👋
 <h1 align="center"> I'm Abhishek Tekade</h1>
 <h3 align="center">A passionate Developer From India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/878726/screenshots/4933914/media/e692e37abd1aa1ebf725720b6d1bcb97.gif">
+<img align="right" alt="Coding" width="400" style="border-radius: 8px" src="https://cdn.dribbble.com/users/878726/screenshots/4933914/media/e692e37abd1aa1ebf725720b6d1bcb97.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishektekade&label=Profile%20views&color=0e75b6&style=flat" alt="abhishektekade" /> </p>
 
