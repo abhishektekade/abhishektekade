@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishektekade&label=Profile%20views&color=0e75b6&style=flat" alt="abhishektekade" /> </p>
 
-- 🔭 I’m currently working on **AWS Cloud and Fullstack Java Applidations**
+- 🔭 I’m currently working on **AWS Cloud and Fullstack Java Development**
 
 - 🌱 I’m currently learning **Devops and Cloud**
 
